@@ -1,0 +1,17 @@
+<section id="projects">
+  <h2>Projects</h2>
+  <div class="project-grid">
+    <div class="project">
+      <img src="https://via.placeholder.com/150" alt="Project 1">
+      <p>Portfolio Website</p>
+    </div>
+    <div class="project">
+      <img src="https://via.placeholder.com/150" alt="Project 2">
+      <p>Todo App</p>
+    </div>
+    <div class="project">
+      <img src="https://via.placeholder.com/150" alt="Project 3">
+      <p>Weather Dashboard</p>
+    </div>
+  </div>
+</section>
